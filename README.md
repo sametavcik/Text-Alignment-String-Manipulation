@@ -1,6 +1,6 @@
 # Text-Alignment-String-Manipulation
 
-## Bu proje, programa girilen bir metni noktalama işaretlerinden ve gereksiz kelimelerden(stop-words) temizleyerek her bir kelimeden kaç adet olduğunu bulmayı ve kelime uzunluğuna göre kelimeleri gruplandırılmayı amaçlamaktadır.
+## Bu proje, programa girilen bir metni noktalama işaretlerinden, gereksiz kelimelerden(stop-words) ve kelime uzunluğu 70'ten büyük kelimeleri temizleyerek her bir kelimeden kaç adet olduğunu bulmayı ve kelime uzunluğuna göre kelimeleri gruplandırılmayı amaçlamaktadır.
 
 ## INPUTS
 ![Adsız1](https://user-images.githubusercontent.com/65908597/193615968-5859909f-6fbf-4554-8db1-3957eed839e4.png)
